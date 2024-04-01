@@ -1,1 +1,2 @@
 src/main/webapp/css/** linguist-vendored
+src/main/webapp/WEB-INF/** linguist-vendored=false
